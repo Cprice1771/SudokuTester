@@ -1,0 +1,5 @@
+/SudokuAI/obj
+/SudokuAI/bin
+/.vs/SudokuAI/v14/*.suo
+/SudokuUnitTest/obj
+/SudokuUnitTest/bin
